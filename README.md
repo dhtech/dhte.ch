@@ -1,3 +1,3 @@
-# dhte.ch
+# dhtech
 
 Static webpage for dhtech.
